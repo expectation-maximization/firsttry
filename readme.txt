@@ -1,1 +1,3 @@
-git remote add origin git@github.com:username/LearningPythonDiary.git  
+git remote add origin git@github.com:username/LearningPythonDiary.git  xulikui
+
+data
